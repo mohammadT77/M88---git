@@ -3,7 +3,7 @@ function hello_world() {
 }
 
 function akbar() {
- return "";
+ return "AKBAR";
 }
 
 function asqar() {
