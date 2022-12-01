@@ -9,5 +9,3 @@ function akbar() {
 function asqar() {
     return "Asqar"
 }
-
-// ASDA
