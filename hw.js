@@ -9,3 +9,7 @@ function akbar() {
 function asqar() {
     return "Asqar"
 }
+
+function reza() {
+    return "REZA"
+}
